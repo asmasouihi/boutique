@@ -1,0 +1,2 @@
+0
+a:2:{s:11:"ps_accounts";a:2:{s:10:"attributes";a:1:{s:7:"warning";s:20:"Invalid module class";}s:4:"disk";a:5:{s:9:"filemtime";i:0;s:10:"is_present";i:0;s:8:"is_valid";i:0;s:7:"version";N;s:4:"path";s:46:"/opt/lampp/htdocs/boutique/modules/ps_accounts";}}s:10:"call_150_0";a:2:{s:10:"attributes";a:1:{s:7:"warning";s:20:"Invalid module class";}s:4:"disk";a:5:{s:9:"filemtime";i:0;s:10:"is_present";i:0;s:8:"is_valid";i:0;s:7:"version";N;s:4:"path";s:45:"/opt/lampp/htdocs/boutique/modules/call_150_0";}}}
